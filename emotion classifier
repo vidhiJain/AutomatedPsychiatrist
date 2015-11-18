@@ -1,0 +1,3 @@
+def word_list(s):
+    words = s.split()
+    return words

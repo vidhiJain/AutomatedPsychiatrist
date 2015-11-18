@@ -3,5 +3,6 @@ An attempt to create an automated psychiatrist that could diagnose psychological
 
 * Currently, emotional analysis is done using ANEW dictionary. Run the .py file and enter the answer to two simple questions and it returns the current emotional state of the person.
 * To understand the result better, refer to 
-http://en.wikipedia.org/wiki/File:Two_Dimensions_of_Emotion.gif.jpg
+![Two Dimensions of Emotion](http://en.wikipedia.org/wiki/File:Two_Dimensions_of_Emotion.gif.jpg)
+
 * On x-axis it is valence(attractiveness) and on y-axis it is arousal(activeness)

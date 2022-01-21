@@ -18,7 +18,7 @@ gensim==3.8.3
 idna==2.10
 invoke==1.4.1
 ipdb==0.13.3
-ipython==7.18.1
+ipython==7.31.1
 ipython-genutils==0.2.0
 itsdangerous==2.0.0a1
 jedi==0.17.2
